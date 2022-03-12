@@ -1,0 +1,7 @@
+apiVersion: demo.demo.lvsoso.io/v1
+kind: DemoVolume
+metadata:
+  name: demovolume-sample
+spec:
+   name: demo
+   size: 10
